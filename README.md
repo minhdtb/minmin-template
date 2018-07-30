@@ -1,6 +1,6 @@
 # minmin-template
 
-##Install
+## Install
 npm install
 
 ## Hot reload

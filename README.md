@@ -1,5 +1,8 @@
 # minmin-template
 
+##Install
+npm install
+
 ## Hot reload
 npm run dev
 

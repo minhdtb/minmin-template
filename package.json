@@ -1,0 +1,21 @@
+{
+  "name": "test3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "backpack dev",
+    "build": "backpack build",
+    "start": "node build/main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "minmin": "0.0.16"
+  },
+  "devDependencies": {
+    "backpack-core": "^0.7.0",
+    "ts-loader": "^2.3.0",
+    "typescript": "^2.9.2"
+  }
+}

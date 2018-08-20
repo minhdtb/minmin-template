@@ -13,4 +13,4 @@ npm run build
 npm start
 
 ## Test
-Navigate to http://localhost/api/test
+Navigate to http://localhost:3000/api/test

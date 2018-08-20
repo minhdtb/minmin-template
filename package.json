@@ -4,16 +4,17 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "backpack dev",
+    "dev": "backpack",
     "build": "backpack build",
     "start": "node build/main.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "minmin": "0.0.16"
+    "minmin": "^0.0.37"
   },
   "devDependencies": {
+    "@types/node": "^10.7.1",
     "backpack-core": "^0.7.0",
     "ts-loader": "^2.3.0",
     "typescript": "^2.9.2"
